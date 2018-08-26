@@ -6,9 +6,9 @@ After importing the module,trying out diffrent parameters in your code makes it 
 ## Features
 
 ### scraping pitures from [ptt-beauty](https://www.ptt.cc/bbs/Beauty/index.html)
-![img1](D:\web_scraper\ch6\img2.png)
+![img](https://github.com/majic0626/olddriver/blob/master/img2.PNG)
 ### easy use dependening on 3 main parameters : index,keyword,pushtag
-![img1](D:\web_scraper\ch6\img3.png)
+![img](https://github.com/majic0626/olddriver/blob/master/img3.PNG)
 
 
 ***
