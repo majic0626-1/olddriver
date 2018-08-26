@@ -1,8 +1,8 @@
 # OLDDRIVER
-***
+
 This is a simple module designed for scrapying pictures from [ptt-beauty](https://www.ptt.cc/bbs/Beauty/index.html) to your local machine.  
 After importing the module,trying out diffrent parameters in your code makes it possible to get various types of pictures.This is, however, a very basic practice of web scrapying with python.   There is still much room for improvement in aspect of versatility of the module.
-***
+
 ## Features
 
 ### scraping pitures from [ptt-beauty](https://www.ptt.cc/bbs/Beauty/index.html)
@@ -11,9 +11,9 @@ After importing the module,trying out diffrent parameters in your code makes it 
 ![img](https://github.com/majic0626/olddriver/blob/master/img3.PNG)
 
 
-***
+
 ## Environment
-***
+
 ### development environment
 * windows 10
 * python 3.6.2
@@ -21,9 +21,9 @@ After importing the module,trying out diffrent parameters in your code makes it 
 ### suggestion
 (suggestion: python 3.x and also on windows 7.8.10.)
 
-***
+
 ## Usage
-***
+
 ### about the module
 * module : ```olddriver.py```
     * Class : ```newcar()```
